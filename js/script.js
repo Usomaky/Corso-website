@@ -1,4 +1,4 @@
-function userScroll(){
+function userScrolly(){
     const navbar = document.querySelector('.navbar');
 
     window.addEventListener('scroll', () => {
